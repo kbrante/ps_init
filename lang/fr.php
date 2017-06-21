@@ -2,6 +2,6 @@
 
 global $_LANG;
 $_LANG = array();
-$_LANG['index_f814893777bcc2295fff05f00e508da6'] = 'bonjour';
+$_LANG['index_1cbd865c811bdff5c50f808831f2eb72'] = 'Bienvenue à ta boutique';
 
 ?>
